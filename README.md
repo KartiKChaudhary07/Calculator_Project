@@ -7,6 +7,7 @@ This is a simple and elegant calculator web application that allows users to per
 
 Table of Contents->
 
+
 1.Features
 2.Technologies Used
 3.Installation
